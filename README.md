@@ -2,7 +2,7 @@
 
 ## Project Contributors
 - **Chitikesi Siddharth** (2022BCD0021)
-- 
+ 
 ## 1. Project Overview
 
 This project focuses on analyzing the Congressional Twitter network to understand influence patterns and information spread among members of Congress. The analysis is based on a dataset collected using the Twitter API, as described in the papers:
